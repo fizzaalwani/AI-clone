@@ -5,7 +5,7 @@ let prompt = document.querySelector("#prompt");
 let sendbtn = document.getElementById("sendBtn");
 
 document.addEventListener('DOMContentLoaded',()=>{
-  document.title=`Fizzup-AI Assistant`
+  document.title=`Rixel-AI Assistant`
 })
 
 const createChatBox = (input, className) => {
